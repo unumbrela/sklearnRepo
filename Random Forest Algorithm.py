@@ -9,7 +9,7 @@ import numpy as np
 data = load_breast_cancer()
  
 data
- 
+ #
 data.data.shape
  
 data.target
